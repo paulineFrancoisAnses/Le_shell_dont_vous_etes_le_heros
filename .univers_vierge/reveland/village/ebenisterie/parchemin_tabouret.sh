@@ -2,11 +2,11 @@
 
 pieds=$1
 
-if [ $pieds == "-h" ] ; then
-    echo -e "\nPour exécuter ce parchemin, il vous faut utiliser la commande \`./parchemin_tabouret.sh nb_pieds\`, où nb_pieds est le nombre de pieds de votre tabouret.\n"
-elif [ -z $pieds -o $pieds -eq 3 ]; then
+if [[ $pieds == "-h" ]] ; then
+    echo -e "\nPour exécuter ce parchemin, il vous faut utiliser la commande \`./parchemin_tabouret.sh nb_pieds\`, où nb_pieds est le nombre de pieds de votre tabouret\n"
+elif [ -z $pieds ] || [ $pieds -eq 3 ]; then
     echo -e "\n\nAbracadabra, que le tabouret soit !"
-    sleep 3
+    sleep 2
 
     echo """TADA !                                                      
                               ........                          
@@ -46,7 +46,7 @@ elif [ -z $pieds -o $pieds -eq 3 ]; then
     echo -e "Oh non ! Mais qu'est ce que c'est que ce tabouret à 3 pieds ?\n\n"
 elif [ $pieds -eq 4 ]; then
     echo -e "\n\nSalagadou la magicabou, la bibidiba bidi(ta)bou(ret) !"
-    sleep 3
+    sleep 2
     echo """
 
 
