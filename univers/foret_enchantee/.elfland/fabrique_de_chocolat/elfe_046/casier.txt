@@ -1,5 +1,9 @@
 quart
+tiers
+tiers
 caramel
+demi
+entier
 sucette
 chewing gum
 ourson chocolat

@@ -1,6 +1,8 @@
+tiers
 marshmallow
 quart
 tagada
+demi
 tagada
 réglisse
 quart
@@ -11,6 +13,8 @@ ourson chocolat
 caramel
 sucette
 tagada
+tiers
+tiers
 tagada
 réglisse
 chewing gum
@@ -21,6 +25,7 @@ ourson chocolat
 tagada
 réglisse
 caramel
+demi
 sucette
 chewing gum
 ourson chocolat

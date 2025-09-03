@@ -7,7 +7,9 @@ quart
 caramel
 sucette
 chewing gum
+entier
 ourson chocolat
+demi
 quart
 caramel
 sucette
@@ -15,6 +17,7 @@ tagada
 tagada
 réglisse
 chewing gum
+dixieme
 ourson chocolat
 quart
 tagada

@@ -2,6 +2,7 @@ tagada
 réglisse
 chewing gum
 ourson chocolat
+entier
 tagada
 réglisse
 caramel

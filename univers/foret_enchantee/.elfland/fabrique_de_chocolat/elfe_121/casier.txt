@@ -10,6 +10,9 @@ chewing gum
 ourson chocolat
 tagada
 réglisse
+demi
+tiers
+tiers
 caramel
 sucette
 quart
@@ -26,6 +29,7 @@ quart
 réglisse
 quart
 caramel
+vingtieme
 sucette
 quart
 quart
