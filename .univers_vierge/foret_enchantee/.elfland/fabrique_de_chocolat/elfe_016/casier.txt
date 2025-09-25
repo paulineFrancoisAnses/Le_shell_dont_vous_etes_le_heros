@@ -1,4 +1,7 @@
 caramel
+demi
+demi
+demi
 sucette
 chewing gum
 ourson chocolat
@@ -18,6 +21,8 @@ ourson chocolat
 quart
 tagada
 tagada
+cinquieme
+tiers
 réglisse
 chewing gum
 ourson chocolat

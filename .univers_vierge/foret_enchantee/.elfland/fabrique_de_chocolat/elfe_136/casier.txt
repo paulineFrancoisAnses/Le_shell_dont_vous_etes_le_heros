@@ -1,3 +1,4 @@
+entier
 tagada
 réglisse
 chewing gum
@@ -18,5 +19,7 @@ ourson chocolat
 tagada
 quart
 marshmallow
+tiers
+tiers
 quart
 quart
